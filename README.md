@@ -4,7 +4,7 @@ A curated collection of aesthetic, anime, and ultrawide wallpapers for desktop c
 
 ## 🎥 Preview
 
-[Watch showcase](./showcase.mp4)
+https://github.com/Abeg-Ashford/rice-walls/blob/27919cf39a23f2b60701f627a8b4eb3e411db419/showcase.mp4
 
 ## 📂 Collections
 
